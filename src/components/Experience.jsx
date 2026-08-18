@@ -21,6 +21,18 @@ const EDUCATION = [
 
 const WORK = [
   {
+    company: 'BCG X',
+    role: 'Summer Foward Deployed AI Scientist',
+    period: 'Jun 2026 – Aug 2026',
+    logo: '/images/bcgx_logo.png',
+    url: '#',
+    bullets: [
+      'Developed data and modeling components for a network optimization system for a national vehicle retailer, projecting a 15% OTP improvement and 20% cost reduction in backtesting.',
+      'Built a Python/SQL pipeline on Snowflake to clean and validate route, volume, and cost data, forming the core dataset.',
+      'Developed cost, time, and volume sub-models feeding a Gurobi MILP location optimizer for hub and lane routing decisions.',
+    ],
+  },
+  {
     company: 'Pal AI',
     role: 'AI/ML Intern',
     period: 'Sep 2025 – May 2026',
