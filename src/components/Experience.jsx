@@ -33,18 +33,6 @@ const WORK = [
     ],
   },
   {
-    company: 'Pal AI',
-    role: 'AI/ML Intern',
-    period: 'Sep 2025 – May 2026',
-    logo: '/images/palai_logo.png',
-    url: '#',
-    bullets: [
-      'Designed a data pipeline to standardize and augment 100+ essay/feedback pairs, fine-tuning the model with the OpenAI API.',
-      'Implemented RAG pipeline with parallel vector search across 4 embedding sources using pgvector.',
-      'Built multi-agent backend with tool-calling LLM loop, dispatching 6 Supabase tools for real-time student data retrieval.',
-    ],
-  },
-  {
     company: 'BU Spark!',
     role: 'Data Science Technical Project Manager',
     period: 'Sep 2024 – Dec 2024',
@@ -53,18 +41,6 @@ const WORK = [
     bullets: [
       'Managed six data analysis and visualization projects, coordinating with clients and facilitating student communication.',
       'Provided technical leadership on data visualization projects leveraging Python, Tableau, and Google BigQuery.',
-    ],
-  },
-  {
-    company: 'Questrom School of Business',
-    role: 'Research Assistant, Applied AI in Business',
-    period: 'Aug 2023 – Jan 2025',
-    logo: '/images/bu_questrom_logo.jpeg',
-    url: 'https://www.leedokyun.com/bitlab.html',
-    bullets: [
-      'Collaborated with 5+ industry researchers to design and implement four AI solutions for business challenges.',
-      'Analyzed over 50,000 user queries to measure the impact of query characteristics on RAG generation.',
-      'Engineered a pipeline using LLMs to label artwork genres from unsupervised clusters via zero-shot topic modeling.',
     ],
   },
   {
